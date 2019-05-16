@@ -1,0 +1,111 @@
+.menu {	height: 184px;
+		width: auto;
+		/*border: 1px solid #e64862;*/
+		background-image: url("https://www.lashop.com/media/catalog/category/chien-1500x250px.jpg");
+
+
+}
+body {background-color: #cfcfcf;
+
+	margin: 0!important;
+	width: auto; 
+}
+.bot1 {height: 45px;
+		width: 70px;
+		border: 1px solid #a6348d;
+		margin-top: -50px;
+		margin-left: 200px;
+}
+.galeria {	background-image: url("https://kenmcnabb.com/wp-content/uploads/2015/07/Background.jpg");
+			height: 1400px;
+			width: 1000px;
+			margin: auto;
+			
+
+
+
+}
+.imgal	{height: 200px;
+			width: 250px;
+			position: relative;
+			padding-right: 20px;
+			margin-left: 55px;
+			padding-top: 20px;
+
+
+
+
+}
+img:hover {width: 250px;
+			height: 250px;
+			border-radius: 70px;
+			transition: 1s;
+
+}
+
+
+
+}
+#test {width: auto;
+		height:150px;
+		border: 0px solid red;
+		background-image: url("https://asseama.org.br/wp-content/uploads/2018/08/magnificos-irmao-asseama.png");
+		
+
+}
+#informa {height: 1400px;
+			width: 1000px;
+			background-color: green; 
+			margin: auto;
+
+}
+
+
+#container { width: auto;
+			 height: 900px;
+			 background-color: #cfcfcf;
+			 border: 0px solid red;
+			 margin: auto;
+			 background-color: gradient 80%;
+
+
+
+}
+#bemvindo { font-family: Baskerville Old Face;
+			margin: auto;
+			margin-left: 44%;
+
+}
+.folder1{ background-image: url("https://www.lashop.com/media/catalog/category/chien-1500x250px.jpg");
+			width: auto;
+			height: 250px;
+			background-repeat: no-repeat;
+			margin: auto;
+			margin-top: 8%;
+
+}
+.agr {  background-image: url("https://kenmcnabb.com/wp-content/uploads/2015/07/Background.jpg");
+		width: 1000px;
+		height: 557px;
+		border: 0px solid red;
+		margin: auto;
+		margin-top:auto;
+		margin-left: 14%
+
+}
+.a1 {font-family: baskerville old face;
+	color: white;
+
+
+}
+
+.bot {	width: 100px;
+		height: 50px;
+		border-radius: 30px;
+		background-color: black;
+		margin: auto;
+		margin-right: 1%;
+		margin-top: 24%;
+
+
+}
